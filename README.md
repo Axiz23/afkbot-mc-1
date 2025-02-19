@@ -1,1 +1,1 @@
-# afkbot-nc
+# afkbot-mc
