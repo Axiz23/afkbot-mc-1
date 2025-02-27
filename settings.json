@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "FoldC",
+    "username": "Htyyon",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "minegens.id",
+    "ip": "indocraft.net",
     "port": 25565,
     "version": "1.13.1"
   },
@@ -25,12 +25,12 @@
     },
 
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 30,
 
@@ -43,6 +43,6 @@
 
     "chat-log": false,
     "auto-reconnect": true,
-    "auto-recconect-delay": 5000
+    "auto-recconect-delay": 10000
   }
 }
